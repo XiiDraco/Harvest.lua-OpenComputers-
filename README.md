@@ -4,17 +4,25 @@ This is a crop harvesting program for the mod OpenComputers in the game Minecraf
 You can directly download the program to a robot in game if you have an internet card installed. Simply use the command ``pastebin get qBEFYGrq harvest.lua``.
 
 The usage of the program is as follows:
+
 ``harvest [x] [y] [wait time in seconds between harvests]``
 
 Example:
 ``harvest 5 5 500``
                             y ^
+                            
 [C] [C] [C] [C] [C]           |
+
 [C] [C] [C] [C] [C]           |
+
 [C] [C] [C] [C] [C]    ->     |
+
 [C] [C] [C] [C] [C]           |
+
 [C] [C] [C] [C] [C]            ---------------->
+
 [R]                                            x
+
 
 C = Crop, R = Robot
 
