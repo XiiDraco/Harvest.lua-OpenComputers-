@@ -9,8 +9,11 @@ The usage of the program is as follows:
 
 Example:
 ```
-harvest 5 5 500
-                            y ^                          
+harvest 5 8 500
+
+[C] [C] [C] [C] [C]         y ^ 
+[C] [C] [C] [C] [C]           |
+[C] [C] [C] [C] [C]           |                        
 [C] [C] [C] [C] [C]           |
 [C] [C] [C] [C] [C]           |
 [C] [C] [C] [C] [C]    ->     |
