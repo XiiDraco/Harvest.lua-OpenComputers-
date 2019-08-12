@@ -8,7 +8,8 @@ The usage of the program is as follows:
 ``harvest [x] [y] [wait time in seconds between harvests]``
 
 Example:
-```harvest 5 5 500
+```
+harvest 5 5 500
                             y ^                          
 [C] [C] [C] [C] [C]           |
 [C] [C] [C] [C] [C]           |
